@@ -1,0 +1,3269 @@
+[
+    {
+        "name": "Gridania Quest Chain",
+        "quests": [
+            {
+                "name": "Close to Home (Gridania)",
+                "level": 1
+            },
+            {
+                "name": "To the Bannock",
+                "level": 4
+            },
+            {
+                "name": "Passing Muster",
+                "level": 5
+            },
+            {
+                "name": "Chasing Shadows",
+                "level": 5
+            },
+            {
+                "name": "Eggs over Queasy",
+                "level": 7
+            },
+            {
+                "name": "Surveying the Damage",
+                "level": 8
+            },
+            {
+                "name": "A Soldier's Breakfast",
+                "level": 9
+            },
+            {
+                "name": "Spirithold Broken",
+                "level": 9
+            },
+            {
+                "name": "On to Bentbranch",
+                "level": 10
+            },
+            {
+                "name": "You Shall Not Trespass",
+                "level": 10
+            },
+            {
+                "name": "Don't Look Down",
+                "level": 11
+            },
+            {
+                "name": "In the Grim Darkness of the Forest",
+                "level": 11
+            },
+            {
+                "name": "Threat Level Elevated",
+                "level": 11
+            },
+            {
+                "name": "Migrant Marauders",
+                "level": 12
+            },
+            {
+                "name": "A Hearer Is Often Late",
+                "level": 13
+            },
+            {
+                "name": "Salvaging the Scene",
+                "level": 13
+            },
+            {
+                "name": "Leia's Legacy",
+                "level": 14
+            },
+            {
+                "name": "Dread Is in the Air",
+                "level": 14
+            },
+            {
+                "name": "To Guard a Guardian",
+                "level": 14
+            },
+            {
+                "name": "Festive Endeavors",
+                "level": 14
+            },
+            {
+                "name": "Renewing the Covenant",
+                "level": 14
+            },
+            {
+                "name": "The Gridanian Envoy",
+                "level": 15
+            },
+            {
+                "name": "Call of the Sea (Gridania)",
+                "level": 15
+            }
+        ]
+    },
+    {
+        "name": "Limsa Lominsa Quest Chain",
+        "quests": [
+            {
+                "name": "Close to Home (Limsa Lominsa)",
+                "level": 1
+            },
+            {
+                "name": "On to Summerford",
+                "level": 4
+            },
+            {
+                "name": "Dressed to Call",
+                "level": 5
+            },
+            {
+                "name": "Lurkers in the Grotto",
+                "level": 5
+            },
+            {
+                "name": "Washed Up",
+                "level": 7
+            },
+            {
+                "name": "Double Dealing",
+                "level": 8
+            },
+            {
+                "name": "Loam Maintenance",
+                "level": 9
+            },
+            {
+                "name": "Plowshares to Swords",
+                "level": 9
+            },
+            {
+                "name": "Just Deserts",
+                "level": 9
+            },
+            {
+                "name": "Sky-high",
+                "level": 10
+            },
+            {
+                "name": "Thanks a Million",
+                "level": 11
+            },
+            {
+                "name": "Relighting the Torch",
+                "level": 11
+            },
+            {
+                "name": "On to the Drydocks",
+                "level": 11
+            },
+            {
+                "name": "Without a Doubt",
+                "level": 12
+            },
+            {
+                "name": "Righting the Shipwright",
+                "level": 12
+            },
+            {
+                "name": "Do Angry Pirates Dream",
+                "level": 13
+            },
+            {
+                "name": "Victory in Peril",
+                "level": 14
+            },
+            {
+                "name": "Men of the Blue Tattoos",
+                "level": 14
+            },
+            {
+                "name": "Feint and Strike",
+                "level": 14
+            },
+            {
+                "name": "High Society",
+                "level": 14
+            },
+            {
+                "name": "A Mizzenmast Repast",
+                "level": 14
+            },
+            {
+                "name": "The Lominsan Envoy",
+                "level": 15
+            },
+            {
+                "name": "Call of the Sea (Limsa Lominsa)",
+                "level": 15
+            }
+        ]
+    },
+    {
+        "name": "Ul'dah Quest Chain",
+        "quests": [
+            {
+                "name": "Close to Home (Ul'dah)",
+                "level": 1
+            },
+            {
+                "name": "We Must Rebuild",
+                "level": 4
+            },
+            {
+                "name": "Nothing to See Here",
+                "level": 5
+            },
+            {
+                "name": "Underneath the Sultantree",
+                "level": 5
+            },
+            {
+                "name": "Step Nine",
+                "level": 6
+            },
+            {
+                "name": "Prudence at This Junction",
+                "level": 8
+            },
+            {
+                "name": "Out of House and Home",
+                "level": 9
+            },
+            {
+                "name": "Way Down in the Hole",
+                "level": 9
+            },
+            {
+                "name": "Takin' What They're Givin'",
+                "level": 10
+            },
+            {
+                "name": "Supply and Demands",
+                "level": 10
+            },
+            {
+                "name": "Give It to Me Raw",
+                "level": 10
+            },
+            {
+                "name": "The Perfect Swarm",
+                "level": 11
+            },
+            {
+                "name": "Last Letter to Lost Hope",
+                "level": 11
+            },
+            {
+                "name": "Heir Today, Gone Tomorrow",
+                "level": 12
+            },
+            {
+                "name": "Passing the Blade",
+                "level": 12
+            },
+            {
+                "name": "Following Footfalls",
+                "level": 13
+            },
+            {
+                "name": "Storms on the Horizon",
+                "level": 13
+            },
+            {
+                "name": "Oh Captain, My Captain",
+                "level": 14
+            },
+            {
+                "name": "Secrets and Lies",
+                "level": 14
+            },
+            {
+                "name": "Duty, Honor, Country",
+                "level": 14
+            },
+            {
+                "name": "A Matter of Tradition",
+                "level": 14
+            },
+            {
+                "name": "A Royal Reception",
+                "level": 14
+            },
+            {
+                "name": "The Ul'dahn Envoy",
+                "level": 15
+            },
+            {
+                "name": "Call of the Sea (Ul'dah)",
+                "level": 15
+            }
+        ]
+    },
+    {
+        "name": "Levels 15-20",
+        "quests": [
+            {
+                "name": "It's Probably Pirates",
+                "level": 15
+            },
+            {
+                "name": "Call of the Forest",
+                "level": 15
+            },
+            {
+                "name": "Fire in the Gloom",
+                "level": 16
+            },
+            {
+                "name": "Call of the Desert",
+                "level": 16
+            },
+            {
+                "name": "Into a Copper Hell",
+                "level": 17
+            },
+            {
+                "name": "The Scions of the Seventh Dawn (Quest)",
+                "level": 17
+            },
+            {
+                "name": "A Wild Rose by Any Other Name",
+                "level": 17
+            },
+            {
+                "name": "Unsolved Mystery",
+                "level": 17
+            },
+            {
+                "name": "What Poor People Think",
+                "level": 18
+            },
+            {
+                "name": "A Proper Burial",
+                "level": 18
+            },
+            {
+                "name": "For the Children",
+                "level": 19
+            },
+            {
+                "name": "Amalj'aa Wrong Places",
+                "level": 19
+            },
+            {
+                "name": "Dressed to Deceive",
+                "level": 19
+            },
+            {
+                "name": "Life, Materia and Everything",
+                "level": 19
+            },
+            {
+                "name": "Lord of the Inferno",
+                "level": 20
+            },
+            {
+                "name": "A Hero in the Making",
+                "level": 20
+            },
+            {
+                "name": "The Company You Keep (Immortal Flames)",
+                "level": 20
+            },
+            {
+                "name": "For Coin and Country",
+                "level": 20
+            },
+            {
+                "name": "The Company You Keep (Maelstrom)",
+                "level": 20
+            },
+            {
+                "name": "Till Sea Swallows All",
+                "level": 20
+            },
+            {
+                "name": "The Company You Keep (Twin Adder)",
+                "level": 20
+            },
+            {
+                "name": "Wood's Will Be Done",
+                "level": 20
+            },
+            {
+                "name": "Sylph-management",
+                "level": 20
+            },
+            {
+                "name": "We Come in Peace",
+                "level": 20
+            },
+            {
+                "name": "Sylphic Studies",
+                "level": 20
+            },
+            {
+                "name": "First Impressions (MSQ)",
+                "level": 20
+            }
+        ]
+    },
+    {
+        "name": "Levels 21-30",
+        "quests": [
+            {
+                "name": "First Contact",
+                "level": 21
+            },
+            {
+                "name": "Dance Dance Diplomacy",
+                "level": 21
+            },
+            {
+                "name": "Forest Friend",
+                "level": 21
+            },
+            {
+                "name": "Presence of the Enemy",
+                "level": 21
+            },
+            {
+                "name": "Brotherly Love",
+                "level": 22
+            },
+            {
+                "name": "Spirited Away",
+                "level": 22
+            },
+            {
+                "name": "Druthers House Rules",
+                "level": 22
+            },
+            {
+                "name": "Never Forget",
+                "level": 23
+            },
+            {
+                "name": "Microbrewing",
+                "level": 23
+            },
+            {
+                "name": "Like Fine Wine",
+                "level": 23
+            },
+            {
+                "name": "Sylphish Concerns",
+                "level": 23
+            },
+            {
+                "name": "Nouveau Riche",
+                "level": 23
+            },
+            {
+                "name": "Into the Beast's Maw",
+                "level": 24
+            },
+            {
+                "name": "A Simple Gift",
+                "level": 24
+            },
+            {
+                "name": "Believe in Your Sylph",
+                "level": 24
+            },
+            {
+                "name": "Back from the Wood (Quest)",
+                "level": 24
+            },
+            {
+                "name": "Shadow of Darkness",
+                "level": 24
+            },
+            {
+                "name": "Highbridge Times",
+                "level": 24
+            },
+            {
+                "name": "Where There Is Smoke",
+                "level": 25
+            },
+            {
+                "name": "On to Little Ala Mhigo",
+                "level": 25
+            },
+            {
+                "name": "Tea for Three",
+                "level": 25
+            },
+            {
+                "name": "Foot in the Door",
+                "level": 25
+            },
+            {
+                "name": "Meeting with the Resistance",
+                "level": 26
+            },
+            {
+                "name": "Killing Him Softly",
+                "level": 26
+            },
+            {
+                "name": "Helping Horn",
+                "level": 26
+            },
+            {
+                "name": "He Ain't Heavy",
+                "level": 27
+            },
+            {
+                "name": "Come Highly Recommended",
+                "level": 27
+            },
+            {
+                "name": "The Bear and the Young'uns' Cares",
+                "level": 27
+            },
+            {
+                "name": "Wilred Wants You",
+                "level": 27
+            },
+            {
+                "name": "Big Trouble in Little Ala Mhigo",
+                "level": 27
+            },
+            {
+                "name": "Back to Square One",
+                "level": 27
+            },
+            {
+                "name": "Terror at Fallgourd",
+                "level": 27
+            },
+            {
+                "name": "Ziz Is So Ridiculous",
+                "level": 28
+            },
+            {
+                "name": "Rock of Rancor",
+                "level": 28
+            },
+            {
+                "name": "Seeing Eye to Winged Eye",
+                "level": 28
+            },
+            {
+                "name": "Power of Deduction",
+                "level": 28
+            },
+            {
+                "name": "Secret of the White Lily",
+                "level": 28
+            },
+            {
+                "name": "Skeletons in Her Closet",
+                "level": 28
+            },
+            {
+                "name": "Wrath of the Titan",
+                "level": 30
+            },
+            {
+                "name": "Tales from the Tidus Slayer",
+                "level": 30
+            },
+            {
+                "name": "Hungry Hungry Goobbues",
+                "level": 30
+            },
+            {
+                "name": "The Lominsan Way",
+                "level": 30
+            },
+            {
+                "name": "Nix That",
+                "level": 30
+            },
+            {
+                "name": "A Modest Proposal",
+                "level": 30
+            },
+            {
+                "name": "Trial by Turtle",
+                "level": 30
+            }
+        ]
+    },
+    {
+        "name": "Levels 31-40",
+        "quests": [
+            {
+                "name": "The Perfect Prey",
+                "level": 31
+            },
+            {
+                "name": "When the Worm Turns",
+                "level": 31
+            },
+            {
+                "name": "There and Back Again",
+                "level": 31
+            },
+            {
+                "name": "The Things We Do for Cheese",
+                "level": 32
+            },
+            {
+                "name": "What Do You Mean You Forgot the Wine",
+                "level": 32
+            },
+            {
+                "name": "An Offer You Can Refuse",
+                "level": 32
+            },
+            {
+                "name": "It Won't Work",
+                "level": 32
+            },
+            {
+                "name": "Give a Man a Drink",
+                "level": 33
+            },
+            {
+                "name": "That Weight",
+                "level": 33
+            },
+            {
+                "name": "Battle Scars",
+                "level": 33
+            },
+            {
+                "name": "It Was a Very Good Year",
+                "level": 33
+            },
+            {
+                "name": "In the Company of Heroes",
+                "level": 33
+            },
+            {
+                "name": "As You Wish",
+                "level": 33
+            },
+            {
+                "name": "Lord of Crags",
+                "level": 34
+            },
+            {
+                "name": "All Good Things",
+                "level": 34
+            },
+            {
+                "name": "You Can't Take It with You",
+                "level": 35
+            },
+            {
+                "name": "Bringing out the Dead",
+                "level": 35
+            },
+            {
+                "name": "Bury Me Not on the Lone Prairie",
+                "level": 35
+            },
+            {
+                "name": "Eyes on Me",
+                "level": 35
+            },
+            {
+                "name": "He Who Waited Behind",
+                "level": 36
+            },
+            {
+                "name": "Cold Reception",
+                "level": 36
+            },
+            {
+                "name": "The Unending War",
+                "level": 36
+            },
+            {
+                "name": "Men of Honor",
+                "level": 36
+            },
+            {
+                "name": "Three for Three",
+                "level": 36
+            },
+            {
+                "name": "The Rose and the Unicorn",
+                "level": 36
+            },
+            {
+                "name": "The Talk of Coerthas",
+                "level": 37
+            },
+            {
+                "name": "Road to Redemption",
+                "level": 38
+            },
+            {
+                "name": "Following the Evidence",
+                "level": 38
+            },
+            {
+                "name": "In the Eyes of Gods and Men",
+                "level": 38
+            },
+            {
+                "name": "The Final Flight of the Enterprise",
+                "level": 38
+            },
+            {
+                "name": "Ye of Little Faith",
+                "level": 39
+            },
+            {
+                "name": "Factual Folklore",
+                "level": 39
+            },
+            {
+                "name": "The Best Inventions",
+                "level": 39
+            },
+            {
+                "name": "Influencing Inquisitors",
+                "level": 40
+            },
+            {
+                "name": "By the Lights of Ishgard",
+                "level": 40
+            },
+            {
+                "name": "Blood for Blood (Quest)",
+                "level": 40
+            },
+            {
+                "name": "The Heretic among Us",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Levels 41-50",
+        "quests": [
+            {
+                "name": "In Pursuit of the Past",
+                "level": 41
+            },
+            {
+                "name": "Into the Eye of the Storm",
+                "level": 41
+            },
+            {
+                "name": "Sealed with Science",
+                "level": 41
+            },
+            {
+                "name": "With the Utmost Care",
+                "level": 41
+            },
+            {
+                "name": "A Promising Prospect",
+                "level": 41
+            },
+            {
+                "name": "It's Probably Not Pirates",
+                "level": 42
+            },
+            {
+                "name": "Representing the Representative",
+                "level": 42
+            },
+            {
+                "name": "The Reluctant Researcher",
+                "level": 42
+            },
+            {
+                "name": "Sweet Somethings",
+                "level": 42
+            },
+            {
+                "name": "History Repeating",
+                "level": 42
+            },
+            {
+                "name": "The Curious Case of Giggity",
+                "level": 43
+            },
+            {
+                "name": "Better Late than Never",
+                "level": 43
+            },
+            {
+                "name": "Lady of the Vortex",
+                "level": 44
+            },
+            {
+                "name": "Reclamation",
+                "level": 44
+            },
+            {
+                "name": "Casing the Castrum",
+                "level": 44
+            },
+            {
+                "name": "Eyes on the Empire",
+                "level": 44
+            },
+            {
+                "name": "Footprints in the Snow",
+                "level": 44
+            },
+            {
+                "name": "Monumental Hopes",
+                "level": 44
+            },
+            {
+                "name": "Notorious Biggs",
+                "level": 44
+            },
+            {
+                "name": "Come-Into-My-Castrum",
+                "level": 44
+            },
+            {
+                "name": "Getting Even with Garlemald",
+                "level": 44
+            },
+            {
+                "name": "Acting the Part",
+                "level": 46
+            },
+            {
+                "name": "Dressed for Conquest",
+                "level": 45
+            },
+            {
+                "name": "Drowning Out the Voices",
+                "level": 46
+            },
+            {
+                "name": "Fool Me Twice (Quest)",
+                "level": 46
+            },
+            {
+                "name": "Every Little Thing She Does Is Magitek",
+                "level": 46
+            },
+            {
+                "name": "Escape from Castrum Centri",
+                "level": 46
+            },
+            {
+                "name": "The Black Wolf's Ultimatum",
+                "level": 46
+            },
+            {
+                "name": "Operation Archon",
+                "level": 49
+            },
+            {
+                "name": "A Hero in Need",
+                "level": 49
+            },
+            {
+                "name": "Hearts on Fire",
+                "level": 49
+            },
+            {
+                "name": "Rock the Castrum",
+                "level": 50
+            },
+            {
+                "name": "The Ultimate Weapon",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Patch 2.1 (A Realm Awoken)",
+        "quests": [
+            {
+                "name": "The Price of Principles",
+                "level": 50
+            },
+            {
+                "name": "Moving On",
+                "level": 50
+            },
+            {
+                "name": "All Things in Time",
+                "level": 50
+            },
+            {
+                "name": "Laying the Foundation",
+                "level": 50
+            },
+            {
+                "name": "It's Possibly a Primal",
+                "level": 50
+            },
+            {
+                "name": "Hail to the King, Kupo",
+                "level": 50
+            },
+            {
+                "name": "You Have Selected Regicide",
+                "level": 50
+            },
+            {
+                "name": "On the Properties of Primals",
+                "level": 50
+            },
+            {
+                "name": "The Gifted",
+                "level": 50
+            },
+            {
+                "name": "Build on the Stone",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Patch 2.2 (Through the Maelstrom)",
+        "quests": [
+            {
+                "name": "Still Waters",
+                "level": 50
+            },
+            {
+                "name": "A Final Temptation",
+                "level": 50
+            },
+            {
+                "name": "The Mother of Exiles",
+                "level": 50
+            },
+            {
+                "name": "Promises to Keep",
+                "level": 50
+            },
+            {
+                "name": "Yugiri's Game",
+                "level": 50
+            },
+            {
+                "name": "Why We Adventure",
+                "level": 50
+            },
+            {
+                "name": "All Due Respect",
+                "level": 50
+            },
+            {
+                "name": "The Sea Rises",
+                "level": 50
+            },
+            {
+                "name": "Scouts in Distress",
+                "level": 50
+            },
+            {
+                "name": "The Gift of Eternity",
+                "level": 50
+            },
+            {
+                "name": "Into the Heart of the Whorl",
+                "level": 50
+            },
+            {
+                "name": "Lord of the Whorl",
+                "level": 50
+            },
+            {
+                "name": "When Yugiri Met the Fraternity",
+                "level": 50
+            },
+            {
+                "name": "Through the Maelstrom",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Patch 2.3 (Defenders of Eorzea)",
+        "quests": [
+            {
+                "name": "The Great Divide",
+                "level": 50
+            },
+            {
+                "name": "Desperate Times",
+                "level": 50
+            },
+            {
+                "name": "Shock and Awe",
+                "level": 50
+            },
+            {
+                "name": "Reap the Whirlwind",
+                "level": 50
+            },
+            {
+                "name": "Revolution",
+                "level": 50
+            },
+            {
+                "name": "Stories We Tell",
+                "level": 50
+            },
+            {
+                "name": "Lord of Levin",
+                "level": 50
+            },
+            {
+                "name": "Levin an Impression",
+                "level": 50
+            },
+            {
+                "name": "What Little Gods Are Made Of",
+                "level": 50
+            },
+            {
+                "name": "Guardian of Eorzea",
+                "level": 50
+            },
+            {
+                "name": "Recruiting the Realm",
+                "level": 50
+            },
+            {
+                "name": "Heretical Harassment",
+                "level": 50
+            },
+            {
+                "name": "When the Cold Sets In",
+                "level": 50
+            },
+            {
+                "name": "Brave New Companions",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Patch 2.4 (Dreams of Ice)",
+        "quests": [
+            {
+                "name": "Traitor in the Midst",
+                "level": 50
+            },
+            {
+                "name": "Back and Fourth",
+                "level": 50
+            },
+            {
+                "name": "Coming to Terms",
+                "level": 50
+            },
+            {
+                "name": "The Intercession of Saints",
+                "level": 50
+            },
+            {
+                "name": "Strength in Unity",
+                "level": 50
+            },
+            {
+                "name": "Dark Words, Dark Deeds",
+                "level": 50
+            },
+            {
+                "name": "First Blood",
+                "level": 50
+            },
+            {
+                "name": "The Path of the Righteous",
+                "level": 50
+            },
+            {
+                "name": "For the Greater Good",
+                "level": 50
+            },
+            {
+                "name": "Tendrils of Intrigue",
+                "level": 50
+            },
+            {
+                "name": "Chasing Ivy",
+                "level": 50
+            },
+            {
+                "name": "In Flagrante Delicto",
+                "level": 50
+            },
+            {
+                "name": "A Simple Plan",
+                "level": 50
+            },
+            {
+                "name": "The Instruments of Our Deliverance",
+                "level": 50
+            },
+            {
+                "name": "The Road Less Traveled",
+                "level": 50
+            },
+            {
+                "name": "Eyes Unclouded",
+                "level": 50
+            },
+            {
+                "name": "The Reason Roaille",
+                "level": 50
+            },
+            {
+                "name": "Let Us Cling Together",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Patch 2.5 (Before the Fall - Part 1)",
+        "quests": [
+            {
+                "name": "Good Intentions",
+                "level": 50
+            },
+            {
+                "name": "Bait and Switch",
+                "level": 50
+            },
+            {
+                "name": "Best Laid Schemes",
+                "level": 50
+            },
+            {
+                "name": "The Rising Chorus",
+                "level": 50
+            },
+            {
+                "name": "Aether on Demand",
+                "level": 50
+            },
+            {
+                "name": "On the Counteroffensive",
+                "level": 50
+            },
+            {
+                "name": "An Uninvited Ascian",
+                "level": 50
+            },
+            {
+                "name": "In Memory of Moenbryda",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Patch 2.55 (Before the Fall - Part 2)",
+        "quests": [
+            {
+                "name": "Mask of Grief",
+                "level": 50
+            },
+            {
+                "name": "Defenders for Ishgard",
+                "level": 50
+            },
+            {
+                "name": "The Wyrm's Roar",
+                "level": 50
+            },
+            {
+                "name": "Committed to the Cause",
+                "level": 50
+            },
+            {
+                "name": "Volunteer Dragonslayers",
+                "level": 50
+            },
+            {
+                "name": "An Allied Perspective",
+                "level": 50
+            },
+            {
+                "name": "The Steps of Faith (Quest)",
+                "level": 50
+            },
+            {
+                "name": "Administrative Decision",
+                "level": 50
+            },
+            {
+                "name": "An Unexpected Ambition",
+                "level": 50
+            },
+            {
+                "name": "Ancient Ways, Timeless Wants",
+                "level": 50
+            },
+            {
+                "name": "Where We Are Needed",
+                "level": 50
+            },
+            {
+                "name": "The Least Among Us",
+                "level": 50
+            },
+            {
+                "name": "A Time to Every Purpose",
+                "level": 50
+            },
+            {
+                "name": "Come, but Not Gone",
+                "level": 50
+            },
+            {
+                "name": "The Parting Glass",
+                "level": 50
+            },
+            {
+                "name": "Before the Dawn",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Main Quest Chain",
+        "quests": [
+            {
+                "name": "Coming to Ishgard",
+                "level": 50
+            },
+            {
+                "name": "Taking in the Sights",
+                "level": 50
+            },
+            {
+                "name": "The Better Half",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Artoirel Quest Chain",
+        "quests": [
+            {
+                "name": "Over the Wall",
+                "level": 50
+            },
+            {
+                "name": "Work in Progress",
+                "level": 50
+            },
+            {
+                "name": "The First and Foremost",
+                "level": 50
+            },
+            {
+                "name": "From on High",
+                "level": 50
+            },
+            {
+                "name": "Reconnaissance Lost",
+                "level": 50
+            },
+            {
+                "name": "At the End of Our Hope",
+                "level": 50
+            },
+            {
+                "name": "Knights Be Not Proud",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Emmanellain Quest Chain",
+        "quests": [
+            {
+                "name": "Onwards and Upwards",
+                "level": 50
+            },
+            {
+                "name": "An Indispensable Ally",
+                "level": 50
+            },
+            {
+                "name": "Meeting the Neighbors",
+                "level": 50
+            },
+            {
+                "name": "Sense of Urgency",
+                "level": 50
+            },
+            {
+                "name": "Hope Springs Eternal",
+                "level": 50
+            },
+            {
+                "name": "A Series of Unfortunate Events",
+                "level": 50
+            },
+            {
+                "name": "A Reward Long in Coming",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "name": "Main Quest Chain (Continued)",
+        "quests": [
+            {
+                "name": "Divine Intervention",
+                "level": 50
+            },
+            {
+                "name": "Disclosure",
+                "level": 50
+            },
+            {
+                "name": "Flame General Affairs",
+                "level": 51
+            },
+            {
+                "name": "In Search of Raubahn",
+                "level": 51
+            },
+            {
+                "name": "Keeping the Flame Alive",
+                "level": 51
+            },
+            {
+                "name": "To Siege or Not to Siege",
+                "level": 51
+            },
+            {
+                "name": "Alphinaud's Way",
+                "level": 51
+            },
+            {
+                "name": "In Search of Iceheart",
+                "level": 51
+            },
+            {
+                "name": "From One Heretic to Another",
+                "level": 51
+            },
+            {
+                "name": "Sounding Out the Amphitheatre",
+                "level": 51
+            },
+            {
+                "name": "Camp of the Convictors",
+                "level": 51
+            },
+            {
+                "name": "Purple Flame, Purple Flame",
+                "level": 51
+            }
+        ]
+    },
+    {
+        "name": "Levels 52-53",
+        "quests": [
+            {
+                "name": "Where the Chocobos Roam",
+                "level": 52
+            },
+            {
+                "name": "Worse than Dragons",
+                "level": 52
+            },
+            {
+                "name": "The Trine Towers",
+                "level": 52
+            },
+            {
+                "name": "Gifts for the Outcasts",
+                "level": 52
+            },
+            {
+                "name": "The Nonmind",
+                "level": 52
+            },
+            {
+                "name": "A Gnathic Deity",
+                "level": 53
+            },
+            {
+                "name": "Breaking into Hives",
+                "level": 53
+            },
+            {
+                "name": "Lord of the Hive",
+                "level": 53
+            },
+            {
+                "name": "Mourn in Passing",
+                "level": 53
+            },
+            {
+                "name": "Beyond the Clouds",
+                "level": 53
+            }
+        ]
+    },
+    {
+        "name": "Levels 54-55",
+        "quests": [
+            {
+                "name": "Mountaintop Diplomacy",
+                "level": 54
+            },
+            {
+                "name": "Moghan's Trial",
+                "level": 54
+            },
+            {
+                "name": "Mogmug's Trial",
+                "level": 54
+            },
+            {
+                "name": "Mogwin's Trial",
+                "level": 54
+            },
+            {
+                "name": "Moglin's Judgment",
+                "level": 54
+            },
+            {
+                "name": "Leaving Moghome",
+                "level": 54
+            },
+            {
+                "name": "The Road to Zenith",
+                "level": 54
+            },
+            {
+                "name": "Waiting for the Wind to Change",
+                "level": 54
+            },
+            {
+                "name": "Heart of Ice",
+                "level": 54
+            },
+            {
+                "name": "The Wyrm's Lair",
+                "level": 54
+            },
+            {
+                "name": "New Winds, Old Friends",
+                "level": 54
+            },
+            {
+                "name": "A General Summons",
+                "level": 54
+            },
+            {
+                "name": "Awakening in Ul'dah",
+                "level": 54
+            },
+            {
+                "name": "A Brave Resolution",
+                "level": 54
+            },
+            {
+                "name": "Ready to Fly",
+                "level": 55
+            },
+            {
+                "name": "Into the Aery",
+                "level": 55
+            },
+            {
+                "name": "The Song Begins",
+                "level": 55
+            }
+        ]
+    },
+    {
+        "name": "Levels 56-57",
+        "quests": [
+            {
+                "name": "Unrest in Ishgard",
+                "level": 56
+            },
+            {
+                "name": "He Who Would Not Be Denied",
+                "level": 56
+            },
+            {
+                "name": "Ill-weather Friends",
+                "level": 56
+            },
+            {
+                "name": "The Spice of Life",
+                "level": 56
+            },
+            {
+                "name": "Noble Indiscretions",
+                "level": 56
+            },
+            {
+                "name": "A Child Apart",
+                "level": 56
+            },
+            {
+                "name": "Bloodlines",
+                "level": 56
+            },
+            {
+                "name": "Fire and Blood",
+                "level": 57
+            },
+            {
+                "name": "A Knight's Calling",
+                "level": 57
+            },
+            {
+                "name": "The Sins of Antiquity",
+                "level": 57
+            },
+            {
+                "name": "In Search of the Soleil",
+                "level": 57
+            },
+            {
+                "name": "Into the Blue",
+                "level": 57
+            },
+            {
+                "name": "Familiar Faces",
+                "level": 57
+            },
+            {
+                "name": "Devourer of Worlds",
+                "level": 57
+            },
+            {
+                "name": "Black and the White",
+                "level": 57
+            },
+            {
+                "name": "Bolt, Chain, and Island",
+                "level": 57
+            },
+            {
+                "name": "A Difference of Opinion",
+                "level": 57
+            },
+            {
+                "name": "One Good Turn",
+                "level": 57
+            },
+            {
+                "name": "An Engineering Enterprise",
+                "level": 57
+            },
+            {
+                "name": "Aetherial Trail",
+                "level": 57
+            },
+            {
+                "name": "Lost in the Lifestream",
+                "level": 57
+            },
+            {
+                "name": "Tataru's Surprise",
+                "level": 57
+            },
+            {
+                "name": "Onward to Sharlayan",
+                "level": 57
+            }
+        ]
+    },
+    {
+        "name": "Levels 58-60",
+        "quests": [
+            {
+                "name": "A Great New Nation",
+                "level": 58
+            },
+            {
+                "name": "Golems Begone",
+                "level": 58
+            },
+            {
+                "name": "An Illuminati Incident",
+                "level": 58
+            },
+            {
+                "name": "Leaving Idyllshire",
+                "level": 58
+            },
+            {
+                "name": "Matoya's Cave (Quest)",
+                "level": 59
+            },
+            {
+                "name": "Forbidden Knowledge",
+                "level": 59
+            },
+            {
+                "name": "An Eye for Aether",
+                "level": 59
+            },
+            {
+                "name": "Hour of Departure",
+                "level": 59
+            },
+            {
+                "name": "The First Flight of the Excelsior",
+                "level": 59
+            },
+            {
+                "name": "Systematic Exploration",
+                "level": 59
+            },
+            {
+                "name": "In Node We Trust",
+                "level": 59
+            },
+            {
+                "name": "Chimerical Maintenance",
+                "level": 59
+            },
+            {
+                "name": "Close Encounters of the VIth Kind",
+                "level": 59
+            },
+            {
+                "name": "Fetters of Lament",
+                "level": 59
+            },
+            {
+                "name": "Heavensward (Quest)",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "Patch 3.1 (As Goes Light, So Goes Darkness)",
+        "quests": [
+            {
+                "name": "An Uncertain Future",
+                "level": 60
+            },
+            {
+                "name": "Breaking the Cycle",
+                "level": 60
+            },
+            {
+                "name": "Another Time, Another Place",
+                "level": 60
+            },
+            {
+                "name": "In the Eye of the Beholder",
+                "level": 60
+            },
+            {
+                "name": "A Little Slow, a Little Late",
+                "level": 60
+            },
+            {
+                "name": "Dreams of the Lost",
+                "level": 60
+            },
+            {
+                "name": "Against the Dying of the Light",
+                "level": 60
+            },
+            {
+                "name": "As Goes Light, So Goes Darkness",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "Patch 3.2 (The Gears of Change)",
+        "quests": [
+            {
+                "name": "As It Once Was",
+                "level": 60
+            },
+            {
+                "name": "The Word of the Mother",
+                "level": 60
+            },
+            {
+                "name": "This War of Ours",
+                "level": 60
+            },
+            {
+                "name": "Staunch Conviction",
+                "level": 60
+            },
+            {
+                "name": "Once More, a Favor",
+                "level": 60
+            },
+            {
+                "name": "For Those We Have Lost",
+                "level": 60
+            },
+            {
+                "name": "Consequences",
+                "level": 60
+            },
+            {
+                "name": "Choices",
+                "level": 60
+            },
+            {
+                "name": "A Spectacle for the Ages",
+                "level": 60
+            },
+            {
+                "name": "For Those We Can Yet Save",
+                "level": 60
+            },
+            {
+                "name": "Causes and Costs",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "Patch 3.3 (Revenge of the Horde)",
+        "quests": [
+            {
+                "name": "The Man Within",
+                "level": 60
+            },
+            {
+                "name": "An Ally for Ishgard",
+                "level": 60
+            },
+            {
+                "name": "Winning Over the Wyrm",
+                "level": 60
+            },
+            {
+                "name": "An End to the Song",
+                "level": 60
+            },
+            {
+                "name": "Heroes of the Hour",
+                "level": 60
+            },
+            {
+                "name": "Litany of Peace",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "Patch 3.4 (Soul Surrender)",
+        "quests": [
+            {
+                "name": "Promises Kept",
+                "level": 60
+            },
+            {
+                "name": "Shadows of the First",
+                "level": 60
+            },
+            {
+                "name": "Two Sides of a Coin",
+                "level": 60
+            },
+            {
+                "name": "Unlikely Allies",
+                "level": 60
+            },
+            {
+                "name": "The Beast That Mourned at the Heart of the Mountain",
+                "level": 60
+            },
+            {
+                "name": "Beneath a Star-filled Sky",
+                "level": 60
+            },
+            {
+                "name": "When We Were Free",
+                "level": 60
+            },
+            {
+                "name": "Honorable Heroes",
+                "level": 60
+            },
+            {
+                "name": "One Life for One World",
+                "level": 60
+            },
+            {
+                "name": "An Ending to Mark a New Beginning",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "Patch 3.5 (The Far Edge of Fate - Part 1)",
+        "quests": [
+            {
+                "name": "Tidings from Gyr Abania",
+                "level": 60
+            },
+            {
+                "name": "An Envoy for Ishgard",
+                "level": 60
+            },
+            {
+                "name": "An Allied Decision",
+                "level": 60
+            },
+            {
+                "name": "Griffin, Griffin on the Wall",
+                "level": 60
+            },
+            {
+                "name": "Louisoix's Finest Student",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "Patch 3.56 (The Far Edge of Fate - Part 2)",
+        "quests": [
+            {
+                "name": "The Obvious Solution",
+                "level": 60
+            },
+            {
+                "name": "The Greater Obeisance",
+                "level": 60
+            },
+            {
+                "name": "Fly Free, My Pretty",
+                "level": 60
+            },
+            {
+                "name": "The Far Edge of Fate",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "Main Quest Chain 2",
+        "quests": [
+            {
+                "name": "Beyond the Great Wall",
+                "level": 60
+            },
+            {
+                "name": "Lyse Takes the Lead",
+                "level": 60
+            },
+            {
+                "name": "The Promise of a New Beginning",
+                "level": 60
+            },
+            {
+                "name": "A Haven for the Bold",
+                "level": 60
+            },
+            {
+                "name": "A Bargain Struck",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "M'naago Quest Chain",
+        "quests": [
+            {
+                "name": "A Friend of a Friend in Need",
+                "level": 60
+            },
+            {
+                "name": "Signed, Sealed, to Be Delivered",
+                "level": 60
+            },
+            {
+                "name": "Best Served with Cold Steel",
+                "level": 60
+            },
+            {
+                "name": "Let Fill Your Hearts with Pride",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "Meffrid Quest Chain",
+        "quests": [
+            {
+                "name": "A Familiar Face Forgotten",
+                "level": 60
+            },
+            {
+                "name": "The Prodigal Daughter",
+                "level": 60
+            },
+            {
+                "name": "Hard Country",
+                "level": 60
+            },
+            {
+                "name": "Death by a Thousand Rocks",
+                "level": 60
+            },
+            {
+                "name": "A Life More Ordinary",
+                "level": 60
+            },
+            {
+                "name": "The Color of Angry Qiqirn",
+                "level": 60
+            },
+            {
+                "name": "The Black Wolf's Pups",
+                "level": 60
+            },
+            {
+                "name": "Homeward Bound",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "name": "Main Quest Chain (Continued) 2",
+        "quests": [
+            {
+                "name": "Where Men Go as One",
+                "level": 60
+            },
+            {
+                "name": "Future Rust, Future Dust",
+                "level": 60
+            },
+            {
+                "name": "A Dash of Green",
+                "level": 60
+            },
+            {
+                "name": "Ye Wayward Brothers",
+                "level": 60
+            },
+            {
+                "name": "Token of Faith",
+                "level": 60
+            },
+            {
+                "name": "Crossing the Velodyna",
+                "level": 61
+            },
+            {
+                "name": "In Crimson It Began",
+                "level": 61
+            },
+            {
+                "name": "The Fires Fade",
+                "level": 61
+            },
+            {
+                "name": "Bereft of Hearth and Home",
+                "level": 61
+            },
+            {
+                "name": "Divide and Conquer",
+                "level": 61
+            },
+            {
+                "name": "Lies, Damn Lies, and Pirates",
+                "level": 61
+            },
+            {
+                "name": "Tales from the Far East",
+                "level": 61
+            },
+            {
+                "name": "Not without Incident",
+                "level": 61
+            },
+            {
+                "name": "The Man from Ul'dah",
+                "level": 61
+            },
+            {
+                "name": "Where the Streets Are Paved with Koban",
+                "level": 61
+            },
+            {
+                "name": "By the Grace of Lord Lolorito",
+                "level": 61
+            },
+            {
+                "name": "A Good Samurai Is Hard to Find",
+                "level": 61
+            },
+            {
+                "name": "It's Probably a Trap",
+                "level": 61
+            },
+            {
+                "name": "Making the Catfish Sing",
+                "level": 61
+            }
+        ]
+    },
+    {
+        "name": "Levels 62-63",
+        "quests": [
+            {
+                "name": "Once More, to the Ruby Sea",
+                "level": 62
+            },
+            {
+                "name": "Open Water",
+                "level": 62
+            },
+            {
+                "name": "Boys with Boats",
+                "level": 62
+            },
+            {
+                "name": "To Bend with the Wind",
+                "level": 62
+            },
+            {
+                "name": "Confederate Consternation",
+                "level": 62
+            },
+            {
+                "name": "The Solace of the Sea",
+                "level": 62
+            },
+            {
+                "name": "The Arrows of Misfortune",
+                "level": 62
+            },
+            {
+                "name": "The Last Voyage",
+                "level": 62
+            },
+            {
+                "name": "Alisaie's Stones",
+                "level": 62
+            },
+            {
+                "name": "Under the Sea",
+                "level": 62
+            },
+            {
+                "name": "Of Kojin and Kami",
+                "level": 62
+            },
+            {
+                "name": "In Soroban We Trust",
+                "level": 63
+            },
+            {
+                "name": "Forever and Ever Apart",
+                "level": 63
+            },
+            {
+                "name": "In Darkness the Magatama Dreams",
+                "level": 63
+            },
+            {
+                "name": "The Whims of the Divine",
+                "level": 63
+            },
+            {
+                "name": "Breaking and Delivering",
+                "level": 63
+            },
+            {
+                "name": "The Lord of the Revel",
+                "level": 63
+            },
+            {
+                "name": "Tide Goes in, Imperials Go Out",
+                "level": 63
+            },
+            {
+                "name": "A Silence in Three Parts",
+                "level": 63
+            }
+        ]
+    },
+    {
+        "name": "Levels 64-65",
+        "quests": [
+            {
+                "name": "Life after Doma",
+                "level": 64
+            },
+            {
+                "name": "A Glimpse of Madness",
+                "level": 64
+            },
+            {
+                "name": "The Stubborn Remainder",
+                "level": 64
+            },
+            {
+                "name": "The Ones We Leave Behind",
+                "level": 64
+            },
+            {
+                "name": "A New Ruby Tithe",
+                "level": 64
+            },
+            {
+                "name": "The Will to Live",
+                "level": 64
+            },
+            {
+                "name": "Daughter of the Deep",
+                "level": 64
+            },
+            {
+                "name": "Path of No Return",
+                "level": 64
+            },
+            {
+                "name": "The Time between the Seconds",
+                "level": 64
+            },
+            {
+                "name": "All the Little Angels",
+                "level": 64
+            },
+            {
+                "name": "Here There Be Xaela",
+                "level": 65
+            },
+            {
+                "name": "The Search for Lord Hien",
+                "level": 65
+            },
+            {
+                "name": "A Season for War",
+                "level": 65
+            },
+            {
+                "name": "An Impossible Dream",
+                "level": 65
+            },
+            {
+                "name": "Stars in the Dark",
+                "level": 65
+            },
+            {
+                "name": "A Warrior's Welcome",
+                "level": 65
+            },
+            {
+                "name": "The Heart of Nations",
+                "level": 65
+            },
+            {
+                "name": "A Trial Before the Trial",
+                "level": 65
+            },
+            {
+                "name": "In the Footsteps of Bardam the Brave",
+                "level": 65
+            },
+            {
+                "name": "The Children of Azim",
+                "level": 65
+            }
+        ]
+    },
+    {
+        "name": "Levels 66-67",
+        "quests": [
+            {
+                "name": "The Labors of Magnai",
+                "level": 66
+            },
+            {
+                "name": "For Love of the Moon",
+                "level": 66
+            },
+            {
+                "name": "Sworn Enemies of the Sun",
+                "level": 66
+            },
+            {
+                "name": "The Undying Ones",
+                "level": 66
+            },
+            {
+                "name": "A Final Peace",
+                "level": 66
+            },
+            {
+                "name": "As the Gods Will",
+                "level": 66
+            },
+            {
+                "name": "Naadam",
+                "level": 66
+            },
+            {
+                "name": "Glory to the Khagan",
+                "level": 66
+            },
+            {
+                "name": "In Crimson They Walked",
+                "level": 66
+            },
+            {
+                "name": "The Hour of Reckoning",
+                "level": 66
+            },
+            {
+                "name": "The Room Where It Happened",
+                "level": 67
+            },
+            {
+                "name": "How Tataru Got Her Groove Back",
+                "level": 67
+            },
+            {
+                "name": "Seeds of Despair",
+                "level": 67
+            },
+            {
+                "name": "The Limits of Our Endurance",
+                "level": 67
+            },
+            {
+                "name": "Broken Steel, Broken Men",
+                "level": 67
+            },
+            {
+                "name": "The Doma Within",
+                "level": 67
+            },
+            {
+                "name": "On the Eve of Destiny",
+                "level": 67
+            },
+            {
+                "name": "The Die Is Cast",
+                "level": 67
+            },
+            {
+                "name": "The World Turned Upside Down",
+                "level": 67
+            },
+            {
+                "name": "A Swift and Secret Departure",
+                "level": 67
+            },
+            {
+                "name": "While You Were Away",
+                "level": 67
+            },
+            {
+                "name": "Rhalgr's Beacon",
+                "level": 67
+            },
+            {
+                "name": "The Fortunes of War",
+                "level": 67
+            },
+            {
+                "name": "Rising Fortunes, Rising Spirits",
+                "level": 67
+            },
+            {
+                "name": "The Lure of the Dream",
+                "level": 67
+            },
+            {
+                "name": "The Lady of Bliss",
+                "level": 67
+            },
+            {
+                "name": "The Silence of the Gods",
+                "level": 67
+            }
+        ]
+    },
+    {
+        "name": "Levels 68-70",
+        "quests": [
+            {
+                "name": "The First of Many",
+                "level": 68
+            },
+            {
+                "name": "Strong and Unified",
+                "level": 68
+            },
+            {
+                "name": "Hells Open",
+                "level": 68
+            },
+            {
+                "name": "Heavens Weep",
+                "level": 68
+            },
+            {
+                "name": "The Road Home",
+                "level": 68
+            },
+            {
+                "name": "For the Living and the Dead",
+                "level": 68
+            },
+            {
+                "name": "Above the Churning Waters",
+                "level": 68
+            },
+            {
+                "name": "The Path Forward",
+                "level": 68
+            },
+            {
+                "name": "With Tired Hands We Toil",
+                "level": 68
+            },
+            {
+                "name": "Where Courage Endures",
+                "level": 68
+            },
+            {
+                "name": "The Price of Freedom",
+                "level": 69
+            },
+            {
+                "name": "Raubahn's Invitation",
+                "level": 69
+            },
+            {
+                "name": "Liberty or Death",
+                "level": 69
+            },
+            {
+                "name": "The Lady in Red",
+                "level": 69
+            },
+            {
+                "name": "Upon the Great Loch's Shore",
+                "level": 69
+            },
+            {
+                "name": "The Key to Victory",
+                "level": 69
+            },
+            {
+                "name": "The Resonant",
+                "level": 69
+            },
+            {
+                "name": "The Legacy of Our Fathers",
+                "level": 69
+            },
+            {
+                "name": "The Measure of His Reach (Quest)",
+                "level": 70
+            },
+            {
+                "name": "Stormblood (Quest)",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Patch 4.1 (The Legend Returns)",
+        "quests": [
+            {
+                "name": "Arenvald's Adventure",
+                "level": 70
+            },
+            {
+                "name": "The Darkness Below",
+                "level": 70
+            },
+            {
+                "name": "The Mad King's Trove",
+                "level": 70
+            },
+            {
+                "name": "The Butcher's Blood",
+                "level": 70
+            },
+            {
+                "name": "Echoes of an Echo",
+                "level": 70
+            },
+            {
+                "name": "A Sultana's Strings",
+                "level": 70
+            },
+            {
+                "name": "A Sultana's Duty",
+                "level": 70
+            },
+            {
+                "name": "A Sultana's Resolve",
+                "level": 70
+            },
+            {
+                "name": "Securing the Saltery",
+                "level": 70
+            },
+            {
+                "name": "A Blissful Arrival",
+                "level": 70
+            },
+            {
+                "name": "Return of the Bull",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Patch 4.2 (Rise of a New Sun)",
+        "quests": [
+            {
+                "name": "Tidings from the East",
+                "level": 70
+            },
+            {
+                "name": "The Sword in the Store",
+                "level": 70
+            },
+            {
+                "name": "Hope on the Waves",
+                "level": 70
+            },
+            {
+                "name": "Elation and Trepidation",
+                "level": 70
+            },
+            {
+                "name": "Storm on the Horizon",
+                "level": 70
+            },
+            {
+                "name": "His Forgotten Home",
+                "level": 70
+            },
+            {
+                "name": "A Guilty Conscience",
+                "level": 70
+            },
+            {
+                "name": "Rise of a New Sun",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Patch 4.3 (Under the Moonlight)",
+        "quests": [
+            {
+                "name": "Gosetsu and Tsuyu",
+                "level": 70
+            },
+            {
+                "name": "Gone Like the Morning Dew",
+                "level": 70
+            },
+            {
+                "name": "Fruits of Her Labor",
+                "level": 70
+            },
+            {
+                "name": "Conscripts and Contingencies",
+                "level": 70
+            },
+            {
+                "name": "The Primary Agreement",
+                "level": 70
+            },
+            {
+                "name": "Under the Moonlight",
+                "level": 70
+            },
+            {
+                "name": "Emissary of the Dawn",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Patch 4.4 (Prelude in Violet)",
+        "quests": [
+            {
+                "name": "Sisterly Act",
+                "level": 70
+            },
+            {
+                "name": "Feel the Burn",
+                "level": 70
+            },
+            {
+                "name": "Shadows in the Empire",
+                "level": 70
+            },
+            {
+                "name": "A Power in Slumber",
+                "level": 70
+            },
+            {
+                "name": "The Will of the Moon",
+                "level": 70
+            },
+            {
+                "name": "The Call",
+                "level": 70
+            },
+            {
+                "name": "Prelude in Violet",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+        "quests": [
+            {
+                "name": "Soul Searching",
+                "level": 70
+            },
+            {
+                "name": "A Defector's Tidings",
+                "level": 70
+            },
+            {
+                "name": "Seiryu's Wall",
+                "level": 70
+            },
+            {
+                "name": "Parley on the Front Lines",
+                "level": 70
+            },
+            {
+                "name": "The Face of War",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Patch 4.56 (A Requiem for Heroes - Part 2)",
+        "quests": [
+            {
+                "name": "A Brief Reprieve",
+                "level": 70
+            },
+            {
+                "name": "A Requiem for Heroes",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Main Quest Chain 3",
+        "quests": [
+            {
+                "name": "The Syrcus Trench",
+                "level": 70
+            },
+            {
+                "name": "City of the First",
+                "level": 70
+            },
+            {
+                "name": "Travelers of Norvrandt",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Alphinaud Quest Chain",
+        "quests": [
+            {
+                "name": "In Search of Alphinaud",
+                "level": 70
+            },
+            {
+                "name": "A Still Tide",
+                "level": 70
+            },
+            {
+                "name": "Open Arms, Closed Gate",
+                "level": 70
+            },
+            {
+                "name": "A Fickle Existence",
+                "level": 70
+            },
+            {
+                "name": "City of Final Pleasures",
+                "level": 70
+            },
+            {
+                "name": "Free to Sightsee",
+                "level": 70
+            },
+            {
+                "name": "A Taste of Honey",
+                "level": 70
+            },
+            {
+                "name": "A Blessed Instrument",
+                "level": 70
+            },
+            {
+                "name": "Emergent Splendor",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Alisaie Quest Chain",
+        "quests": [
+            {
+                "name": "In Search of Alisaie",
+                "level": 70
+            },
+            {
+                "name": "City of the Mord",
+                "level": 70
+            },
+            {
+                "name": "Working Off the Meal",
+                "level": 70
+            },
+            {
+                "name": "A Desert Crossing",
+                "level": 70
+            },
+            {
+                "name": "Following in Her Footprints",
+                "level": 70
+            },
+            {
+                "name": "Culling Their Ranks",
+                "level": 70
+            },
+            {
+                "name": "A Purchase of Fruit",
+                "level": 70
+            },
+            {
+                "name": "The Time Left to Us",
+                "level": 70
+            },
+            {
+                "name": "Tears on the Sand",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "name": "Main Quest Chain (Continued) 3",
+        "quests": [
+            {
+                "name": "The Lightwardens",
+                "level": 71
+            },
+            {
+                "name": "Warrior of Darkness (Quest)",
+                "level": 71
+            }
+        ]
+    },
+    {
+        "name": "Levels 72-73",
+        "quests": [
+            {
+                "name": "An Unwelcome Guest",
+                "level": 72
+            },
+            {
+                "name": "The Crystarium's Resolve",
+                "level": 72
+            },
+            {
+                "name": "Logistics of War",
+                "level": 72
+            },
+            {
+                "name": "The Oracle of Light",
+                "level": 72
+            },
+            {
+                "name": "Il Mheg, the Faerie Kingdom",
+                "level": 72
+            },
+            {
+                "name": "Sul Uin's Request",
+                "level": 72
+            },
+            {
+                "name": "Ys Iala's Errand",
+                "level": 72
+            },
+            {
+                "name": "Oul Sigun's Plea",
+                "level": 72
+            },
+            {
+                "name": "Unto the Truth",
+                "level": 72
+            },
+            {
+                "name": "Courting Cooperation",
+                "level": 72
+            },
+            {
+                "name": "The Key to the Castle",
+                "level": 73
+            },
+            {
+                "name": "A Visit to the Nu Mou",
+                "level": 73
+            },
+            {
+                "name": "A Fitting Payment",
+                "level": 73
+            },
+            {
+                "name": "Spore Sweeper",
+                "level": 73
+            },
+            {
+                "name": "The Lawless Ones",
+                "level": 73
+            },
+            {
+                "name": "The Elder's Answer",
+                "level": 73
+            },
+            {
+                "name": "A Resounding Roar",
+                "level": 73
+            },
+            {
+                "name": "Memento of a Friend",
+                "level": 73
+            },
+            {
+                "name": "Acht-la Ormh Inn",
+                "level": 73
+            },
+            {
+                "name": "The Wheel Turns",
+                "level": 73
+            }
+        ]
+    },
+    {
+        "name": "Levels 74-75",
+        "quests": [
+            {
+                "name": "A Party Soon Divided",
+                "level": 74
+            },
+            {
+                "name": "A Little Faith",
+                "level": 74
+            },
+            {
+                "name": "Into the Dark",
+                "level": 74
+            },
+            {
+                "name": "A Day in the Neighborhood",
+                "level": 74
+            },
+            {
+                "name": "A Helping Hand",
+                "level": 74
+            },
+            {
+                "name": "Lost but Not Forgotten",
+                "level": 74
+            },
+            {
+                "name": "Saying Good-bye",
+                "level": 74
+            },
+            {
+                "name": "Stirring Up Trouble",
+                "level": 74
+            },
+            {
+                "name": "A Beeautiful Plan",
+                "level": 74
+            },
+            {
+                "name": "An Unwanted Proposal",
+                "level": 74
+            },
+            {
+                "name": "Put to the Proof",
+                "level": 74
+            },
+            {
+                "name": "Into the Wood",
+                "level": 75
+            },
+            {
+                "name": "Top of the Tree",
+                "level": 75
+            },
+            {
+                "name": "Look to the Stars",
+                "level": 75
+            },
+            {
+                "name": "Mi Casa, Toupasa",
+                "level": 75
+            },
+            {
+                "name": "Legend of the Not-so-hidden Temple",
+                "level": 75
+            },
+            {
+                "name": "The Aftermath",
+                "level": 75
+            },
+            {
+                "name": "In Good Faith",
+                "level": 75
+            },
+            {
+                "name": "The Burden of Knowledge",
+                "level": 75
+            },
+            {
+                "name": "Bearing with It",
+                "level": 75
+            }
+        ]
+    },
+    {
+        "name": "Levels 76-77",
+        "quests": [
+            {
+                "name": "Out of the Wood",
+                "level": 76
+            },
+            {
+                "name": "When It Rains",
+                "level": 76
+            },
+            {
+                "name": "Word from On High",
+                "level": 76
+            },
+            {
+                "name": "Small Favors",
+                "level": 76
+            },
+            {
+                "name": "The Best Way Out",
+                "level": 76
+            },
+            {
+                "name": "Free Trade",
+                "level": 76
+            },
+            {
+                "name": "The Trolley Problem",
+                "level": 76
+            },
+            {
+                "name": "Rust and Ruin",
+                "level": 76
+            },
+            {
+                "name": "On Track",
+                "level": 76
+            },
+            {
+                "name": "Down for Maintenance",
+                "level": 76
+            },
+            {
+                "name": "The Truth Hurts",
+                "level": 76
+            },
+            {
+                "name": "A Convenient Distraction",
+                "level": 77
+            },
+            {
+                "name": "A Dirty Job",
+                "level": 77
+            },
+            {
+                "name": "Have a Heart",
+                "level": 77
+            },
+            {
+                "name": "Full Steam Ahead",
+                "level": 77
+            },
+            {
+                "name": "Crossroads",
+                "level": 77
+            },
+            {
+                "name": "A Fresh Start",
+                "level": 77
+            },
+            {
+                "name": "More than a Hunch",
+                "level": 77
+            },
+            {
+                "name": "Return to Eulmore",
+                "level": 77
+            },
+            {
+                "name": "A Feast of Lies",
+                "level": 77
+            },
+            {
+                "name": "Paradise Fallen",
+                "level": 77
+            }
+        ]
+    },
+    {
+        "name": "Levels 78-80",
+        "quests": [
+            {
+                "name": "The Ladder",
+                "level": 78
+            },
+            {
+                "name": "The View from Above",
+                "level": 78
+            },
+            {
+                "name": "In Mt. Gulg's Shadow",
+                "level": 78
+            },
+            {
+                "name": "A Gigantic Undertaking",
+                "level": 78
+            },
+            {
+                "name": "Meet the Tholls",
+                "level": 78
+            },
+            {
+                "name": "A-Digging We Will Go",
+                "level": 78
+            },
+            {
+                "name": "The Duergar's Tewel",
+                "level": 78
+            },
+            {
+                "name": "Rich Veins of Hope",
+                "level": 78
+            },
+            {
+                "name": "That None Shall Ever Again",
+                "level": 78
+            },
+            {
+                "name": "A Breath of Respite",
+                "level": 78
+            },
+            {
+                "name": "Extinguishing the Last Light",
+                "level": 79
+            },
+            {
+                "name": "Reassuring the Masses",
+                "level": 79
+            },
+            {
+                "name": "In His Garden",
+                "level": 79
+            },
+            {
+                "name": "The Unbroken Thread",
+                "level": 79
+            },
+            {
+                "name": "To Storm-tossed Seas",
+                "level": 79
+            },
+            {
+                "name": "Waiting in the Depths",
+                "level": 79
+            },
+            {
+                "name": "City of the Ancients",
+                "level": 79
+            },
+            {
+                "name": "The Light of Inspiration",
+                "level": 79
+            },
+            {
+                "name": "The Illuminated Land",
+                "level": 80
+            },
+            {
+                "name": "The End of a World",
+                "level": 80
+            },
+            {
+                "name": "A Greater Purpose",
+                "level": 80
+            },
+            {
+                "name": "Shadowbringers (Quest)",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+        "quests": [
+            {
+                "name": "Shaken Resolve",
+                "level": 80
+            },
+            {
+                "name": "A Grand Adventure",
+                "level": 80
+            },
+            {
+                "name": "A Welcome Guest",
+                "level": 80
+            },
+            {
+                "name": "Good for the Soul",
+                "level": 80
+            },
+            {
+                "name": "Nowhere to Turn",
+                "level": 80
+            },
+            {
+                "name": "A Notable Absence",
+                "level": 80
+            },
+            {
+                "name": "For the People",
+                "level": 80
+            },
+            {
+                "name": "Finding Good Help",
+                "level": 80
+            },
+            {
+                "name": "Moving Forward",
+                "level": 80
+            },
+            {
+                "name": "Vows of Virtue, Deeds of Cruelty",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Patch 5.2 (Echoes of a Fallen Star)",
+        "quests": [
+            {
+                "name": "Old Enemies, New Threats",
+                "level": 80
+            },
+            {
+                "name": "The Way Home",
+                "level": 80
+            },
+            {
+                "name": "Seeking Counsel",
+                "level": 80
+            },
+            {
+                "name": "Facing the Truth",
+                "level": 80
+            },
+            {
+                "name": "A Sleep Disturbed",
+                "level": 80
+            },
+            {
+                "name": "An Old Friend",
+                "level": 80
+            },
+            {
+                "name": "Deep Designs",
+                "level": 80
+            },
+            {
+                "name": "A Whale's Tale",
+                "level": 80
+            },
+            {
+                "name": "Beneath the Surface",
+                "level": 80
+            },
+            {
+                "name": "Echoes of a Fallen Star",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Patch 5.3 (Reflections in Crystal)",
+        "quests": [
+            {
+                "name": "In the Name of the Light",
+                "level": 80
+            },
+            {
+                "name": "Heroic Dreams",
+                "level": 80
+            },
+            {
+                "name": "Fraying Threads",
+                "level": 80
+            },
+            {
+                "name": "Food for the Soul",
+                "level": 80
+            },
+            {
+                "name": "Faded Memories",
+                "level": 80
+            },
+            {
+                "name": "Etched in the Stars",
+                "level": 80
+            },
+            {
+                "name": "The Converging Light",
+                "level": 80
+            },
+            {
+                "name": "Hope's Confluence",
+                "level": 80
+            },
+            {
+                "name": "Nothing Unsaid",
+                "level": 80
+            },
+            {
+                "name": "The Journey Continues",
+                "level": 80
+            },
+            {
+                "name": "Unto the Morrow",
+                "level": 80
+            },
+            {
+                "name": "Reflections in Crystal",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Patch 5.4 (Futures Rewritten)",
+        "quests": [
+            {
+                "name": "Alisaie's Quest",
+                "level": 80
+            },
+            {
+                "name": "The Wisdom of Allag",
+                "level": 80
+            },
+            {
+                "name": "Reviving the Legacy",
+                "level": 80
+            },
+            {
+                "name": "Forget Us Not",
+                "level": 80
+            },
+            {
+                "name": "Like Master, Like Pupil",
+                "level": 80
+            },
+            {
+                "name": "The Admiral's Resolve",
+                "level": 80
+            },
+            {
+                "name": "The Search for Sicard",
+                "level": 80
+            },
+            {
+                "name": "On Rough Seas",
+                "level": 80
+            },
+            {
+                "name": "The Great Ship Vylbrand",
+                "level": 80
+            },
+            {
+                "name": "Futures Rewritten",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Patch 5.5 (Death Unto Dawn - Part 1)",
+        "quests": [
+            {
+                "name": "Unto the Breach",
+                "level": 80
+            },
+            {
+                "name": "Here Be Dragons",
+                "level": 80
+            },
+            {
+                "name": "Righteous Indignation",
+                "level": 80
+            },
+            {
+                "name": "For Vengeance",
+                "level": 80
+            },
+            {
+                "name": "The Flames of War",
+                "level": 80
+            },
+            {
+                "name": "When the Dust Settles",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Patch 5.55 (Death Unto Dawn - Part 2)",
+        "quests": [
+            {
+                "name": "The Company We Keep",
+                "level": 80
+            },
+            {
+                "name": "On Official Business",
+                "level": 80
+            },
+            {
+                "name": "Death Unto Dawn",
+                "level": 80
+            }
+        ]
+    }
+]
