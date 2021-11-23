@@ -94,6 +94,7 @@ impl epi::App for Nodders {
             let input = ctx.input();
             if input.key_pressed(Key::W)
                 || input.key_pressed(egui::Key::ArrowUp)
+                || input.key_pressed(Key::Num8)
                 || UP.load(Ordering::SeqCst) != 0
             {
                 let (chain_idx, quest_idx) = self.selected_quest.unwrap_or_default();
@@ -120,6 +121,7 @@ impl epi::App for Nodders {
 
             if input.key_pressed(Key::S)
                 || input.key_pressed(Key::ArrowDown)
+                || input.key_pressed(Key::Num2)
                 || DOWN.load(Ordering::SeqCst) != 0
             {
                 let (chain_idx, quest_idx) = self.selected_quest.unwrap_or_default();
@@ -187,6 +189,7 @@ impl epi::App for Nodders {
                                     if plus.clicked()
                                         || input.key_pressed(Key::A)
                                         || input.key_pressed(Key::ArrowLeft)
+                                        || input.key_pressed(Key::Num4)
                                         || ADD_NOD.load(Ordering::SeqCst) != 0
                                     {
                                         let nods = self.nods.entry(quest.name.clone()).or_default();
@@ -201,6 +204,7 @@ impl epi::App for Nodders {
                                     if minus.clicked()
                                         || input.key_pressed(Key::D)
                                         || input.key_pressed(Key::ArrowRight)
+                                        || input.key_pressed(Key::Num6)
                                         || SUB_NOD.load(Ordering::SeqCst) != 0
                                     {
                                         let nods = self.nods.entry(quest.name.clone()).or_default();
