@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use eframe::{egui, epi};
 use egui::Key;
 use std::collections::HashMap;
