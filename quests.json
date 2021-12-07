@@ -834,7 +834,7 @@
             },
             {
                 "name": "Dressed for Conquest",
-                "level": 45
+                "level": 46
             },
             {
                 "name": "Drowning Out the Voices",
@@ -3263,6 +3263,478 @@
             {
                 "name": "Death Unto Dawn",
                 "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Main Quest Chain 4",
+        "quests": [
+            {
+                "name": "The Next Ship to Sail",
+                "level": 80
+            },
+            {
+                "name": "Old Sharlayan, New to You",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Old Sharlayan Quest Chain",
+        "quests": [
+            {
+                "name": "Hitting the Books",
+                "level": 80
+            },
+            {
+                "name": "A Seat at the Last Stand",
+                "level": 80
+            },
+            {
+                "name": "A Labyrinthine Descent",
+                "level": 80
+            },
+            {
+                "name": "Glorified Ratcatcher",
+                "level": 80
+            },
+            {
+                "name": "Deeper into the Maze",
+                "level": 80
+            },
+            {
+                "name": "The Medial Circuit",
+                "level": 80
+            },
+            {
+                "name": "The Full Report, Warts and All",
+                "level": 80
+            },
+            {
+                "name": "A Guide of Sorts",
+                "level": 80
+            },
+            {
+                "name": "Estate Visitor",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Thavnair Quest Chain",
+        "quests": [
+            {
+                "name": "For Thavnair Bound",
+                "level": 80
+            },
+            {
+                "name": "On Low Tide",
+                "level": 80
+            },
+            {
+                "name": "A Fisherman's Friend",
+                "level": 80
+            },
+            {
+                "name": "House of Divinities",
+                "level": 80
+            },
+            {
+                "name": "The Great Work",
+                "level": 80
+            },
+            {
+                "name": "Shadowed Footsteps",
+                "level": 80
+            },
+            {
+                "name": "A Boy's Errand",
+                "level": 80
+            },
+            {
+                "name": "Tipping the Scale",
+                "level": 80
+            },
+            {
+                "name": "The Satrap of Radz-at-Han",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "name": "Main Quest Chain (Continued) 4",
+        "quests": [
+            {
+                "name": "In the Dark of the Tower",
+                "level": 81
+            },
+            {
+                "name": "The Jewel of Thavnair",
+                "level": 81
+            },
+            {
+                "name": "The Color of Joy",
+                "level": 81
+            }
+        ]
+    },
+    {
+        "name": "Levels 82-83",
+        "quests": [
+            {
+                "name": "Sound the Bell, School's In",
+                "level": 82
+            },
+            {
+                "name": "A Capital Idea",
+                "level": 82
+            },
+            {
+                "name": "Best of the Best",
+                "level": 82
+            },
+            {
+                "name": "A Frosty Reception",
+                "level": 82
+            },
+            {
+                "name": "Tracks in the Snow",
+                "level": 82
+            },
+            {
+                "name": "How the Mighty Are Fallen",
+                "level": 82
+            },
+            {
+                "name": "At the End of the Trail",
+                "level": 82
+            },
+            {
+                "name": "A Way Forward",
+                "level": 82
+            },
+            {
+                "name": "The Last Bastion",
+                "level": 82
+            },
+            {
+                "name": "Personae non Gratae",
+                "level": 82
+            },
+            {
+                "name": "His Park Materials",
+                "level": 83
+            },
+            {
+                "name": "No Good Deed",
+                "level": 83
+            },
+            {
+                "name": "Alea lacta Est",
+                "level": 83
+            },
+            {
+                "name": "Strange Bedfellows",
+                "level": 83
+            },
+            {
+                "name": "In from the Cold",
+                "level": 83
+            },
+            {
+                "name": "Gateway of the Gods",
+                "level": 83
+            },
+            {
+                "name": "A Trip to the Moon",
+                "level": 83
+            },
+            {
+                "name": "Sea of Sorrows",
+                "level": 83
+            },
+            {
+                "name": "The Martyr",
+                "level": 83
+            }
+        ]
+    },
+    {
+        "name": "Levels 84-85",
+        "quests": [
+            {
+                "name": "In Shadow's Wake",
+                "level": 84
+            },
+            {
+                "name": "Helping Hands",
+                "level": 84
+            },
+            {
+                "name": "A Harey Situation",
+                "level": 84
+            },
+            {
+                "name": "A Taste of the Moon",
+                "level": 84
+            },
+            {
+                "name": "Styled a Hero",
+                "level": 84
+            },
+            {
+                "name": "All's Vale That Endsvale",
+                "level": 84
+            },
+            {
+                "name": "Back to Old Tricks",
+                "level": 84
+            },
+            {
+                "name": "Setting Things Straight",
+                "level": 84
+            },
+            {
+                "name": "Heart of the Matter",
+                "level": 84
+            },
+            {
+                "name": "Returning Home",
+                "level": 84
+            },
+            {
+                "name": "Skies Aflame",
+                "level": 85
+            },
+            {
+                "name": "The Blasphemy Unmasked",
+                "level": 85
+            },
+            {
+                "name": "Amidst the Apocalypse",
+                "level": 85
+            },
+            {
+                "name": "Beyond the Depths of Despair",
+                "level": 85
+            },
+            {
+                "name": "That We Might Live",
+                "level": 85
+            },
+            {
+                "name": "When All Hope Seems Lost",
+                "level": 85
+            },
+            {
+                "name": "Warm Hearts, Rekindled Hopes",
+                "level": 85
+            },
+            {
+                "name": "Simple Pleasures",
+                "level": 85
+            },
+            {
+                "name": "Under His Wing",
+                "level": 85
+            },
+            {
+                "name": "At World's End",
+                "level": 85
+            }
+        ]
+    },
+    {
+        "name": "Levels 86-87",
+        "quests": [
+            {
+                "name": "Return to the Crystarium",
+                "level": 86
+            },
+            {
+                "name": "Hope Upon a Flower",
+                "level": 86
+            },
+            {
+                "name": "Petalouda Hunt",
+                "level": 86
+            },
+            {
+                "name": "In Search of Hermes",
+                "level": 86
+            },
+            {
+                "name": "Ponder, Warrant, Cherish, Welcome",
+                "level": 86
+            },
+            {
+                "name": "Lives Apart",
+                "level": 86
+            },
+            {
+                "name": "Their Greatest Contribution",
+                "level": 86
+            },
+            {
+                "name": "Aether to Aether",
+                "level": 86
+            },
+            {
+                "name": "A Sentimental Gift",
+                "level": 86
+            },
+            {
+                "name": "Verdict and Execution",
+                "level": 86
+            },
+            {
+                "name": "Travelers at the Crossroads",
+                "level": 87
+            },
+            {
+                "name": "A Past, Not Yet Come to Pass",
+                "level": 87
+            },
+            {
+                "name": "Witness to the Spectacle",
+                "level": 87
+            },
+            {
+                "name": "Worthy of His Back",
+                "level": 87
+            },
+            {
+                "name": "A Flower upon Your Return",
+                "level": 87
+            },
+            {
+                "name": "Hunger in the Garden",
+                "level": 87
+            },
+            {
+                "name": "Words without Sound",
+                "level": 87
+            },
+            {
+                "name": "Follow, Wander, Stumble, Listen",
+                "level": 87
+            },
+            {
+                "name": "Caging the Messenger",
+                "level": 87
+            },
+            {
+                "name": "Thou Must Live, Die, and Know",
+                "level": 87
+            }
+        ]
+    },
+    {
+        "name": "Levels 88-90",
+        "quests": [
+            {
+                "name": "As the Heavens Burn",
+                "level": 88
+            },
+            {
+                "name": "Outside Help",
+                "level": 88
+            },
+            {
+                "name": "Going Underground",
+                "level": 88
+            },
+            {
+                "name": "No Job Too Small",
+                "level": 88
+            },
+            {
+                "name": "Wise Guides",
+                "level": 88
+            },
+            {
+                "name": "Agriculture Shock",
+                "level": 88
+            },
+            {
+                "name": "Sage Council",
+                "level": 88
+            },
+            {
+                "name": "Hither and Yarns",
+                "level": 88
+            },
+            {
+                "name": "Once Forged",
+                "level": 88
+            },
+            {
+                "name": "Bonds of Adamant(ite)",
+                "level": 88
+            },
+            {
+                "name": "Her Children, One and All",
+                "level": 89
+            },
+            {
+                "name": "A Bold Decision",
+                "level": 89
+            },
+            {
+                "name": "Friends Gathered",
+                "level": 89
+            },
+            {
+                "name": "Unto the Heavens",
+                "level": 89
+            },
+            {
+                "name": "A \u00a7tr\u03b1nge New World",
+                "level": 89
+            },
+            {
+                "name": "On Burd\u03b5ned \u03c9ings",
+                "level": 89
+            },
+            {
+                "name": "A Test of W\u03b9ll",
+                "level": 89
+            },
+            {
+                "name": "Roads P\u03b1ved\u2502\u2502Sacri\u2523ice",
+                "level": 89
+            },
+            {
+                "name": "F//\u03b5sh Aban\u0394on\u2528\u0394",
+                "level": 89
+            },
+            {
+                "name": "Where Kn\u221ewledge Leads",
+                "level": 89
+            },
+            {
+                "name": "Vic\u2528\u03bfry \u0308 \u0308 \u0308\u2573, \u2502\u0306\u2502\u2502\u03b5 Lost",
+                "level": 90
+            },
+            {
+                "name": "\u2523\u2528\u0308//\u0308 No\u2528\u03a6oun\u0394\u2022\u2022\u2022",
+                "level": 90
+            },
+            {
+                "name": "Hello, World",
+                "level": 90
+            },
+            {
+                "name": "Forge Ahead",
+                "level": 90
+            },
+            {
+                "name": "You're Not Alone",
+                "level": 90
+            },
+            {
+                "name": "Endwalker (Quest)",
+                "level": 90
             }
         ]
     }
